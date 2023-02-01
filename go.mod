@@ -20,7 +20,6 @@ require (
 	google.golang.org/protobuf v1.28.1 // indirect
 )
 
-
 replace (
 	github.com/nasa9084/go-switchbot v1.0.0 => github.com/bootjp/go-switchbot latest
 )
